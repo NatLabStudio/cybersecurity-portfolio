@@ -1,1 +1,2 @@
 # cybersecurity-portfolio
+I’m an IT professional with a growing focus on cybersecurity, shaped by hands-on experience supporting users and managing system access. I care about protecting people and organizations by ensuring systems are configured properly, access is handled responsibly, and issues are addressed before they become larger risks. I’m motivated to continue developing my cybersecurity skills and applying them to help organizations reduce risk and protect their information.
